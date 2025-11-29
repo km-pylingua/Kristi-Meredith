@@ -1,23 +1,22 @@
 Introducing Myself 
 
-Hello! 👋 I'm a registered nurse 👩‍⚕️📊 turned data analyst with 5+ years experience in the healthcare field. Passionate about data analysis and reporting, and transforming raw data into meaningful and actionable insights used to make data-driven decisions that improve patient outcomes.
+Hello! 👋 I'm a registered nurse 👩‍⚕️📊 with a BS in Nursing and a BA in Linguistics interested in the intersection between health, language and tech. 
 
-Skills 📚
+Interests 📚
 
-Querying data using SQL.
-Generate reports and perform data analysis using SQL.
-Developing dashboards on Tableau and Power BI.
-Data analysis and reporting using Excel.
+NLP/ML
+Bioinformatics
+Syntax
+Rare and endangered languages
  
 Projects 💻
 
 Please explore my portfolio, where I showcase my projects.
+Currently completing CS50 Python and 100 Day Python Coding Challenge.
 
 Tools 🔧
 
-Language: SQL, Python
-Database: PostgreSQL, MySQL
-Visualization: Tableau, Power BI
+Language: Python
 
 👋🏻 Connect with Me
 Linkedin
